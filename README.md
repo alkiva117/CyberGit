@@ -1,1 +1,1 @@
-# GoLab
+# HyperLab
